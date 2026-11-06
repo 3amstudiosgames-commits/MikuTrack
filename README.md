@@ -5,9 +5,9 @@ A web app that help you study and stay in track. It has a pomodoro tracker, To-d
 ### Screenshots:
 
 ## Getting Started:
-This program runs on web  
-link to open it: https://3amstudiosgames-commits.github.io/MikuTrack/
+This program runs on web and has no known bugs.
 ### Executing Program:
+link to open it: https://3amstudiosgames-commits.github.io/MikuTrack/
 ## Help:
 There are no common problems for MikuTrack.
 ## License:
